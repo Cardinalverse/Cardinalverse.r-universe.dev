@@ -2,5 +2,13 @@
   {
     "package": "Cardinal",
     "url": "https://github.com/Cardinalverse/Cardinal"
+  },
+  {
+    "package": "CardinalIO",
+    "url": "https://github.com/Cardinalverse/CardinalIO"
+  },
+  {
+    "package": "CardinalWorkflows",
+    "url": "https://github.com/Cardinalverse/CardinalWorkflows"
   }
 ]

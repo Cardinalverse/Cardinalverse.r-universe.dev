@@ -10,5 +10,9 @@
   {
     "package": "CardinalWorkflows",
     "url": "https://github.com/Cardinalverse/CardinalWorkflows"
+  },
+  {
+    "package": "CardinalCore",
+    "url": "https://github.com/Cardinalverse/CardinalCore.git"
   }
 ]

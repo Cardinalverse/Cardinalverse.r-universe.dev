@@ -14,5 +14,9 @@
   {
     "package": "CardinalCore",
     "url": "https://github.com/Cardinalverse/CardinalCore.git"
+  },
+  {
+    "package": "CardinalStats",
+    "url": "https://github.com/Cardinalverse/CardinalStats.git"
   }
 ]
